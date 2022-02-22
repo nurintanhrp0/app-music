@@ -13,10 +13,8 @@ import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.example.musicapps.GlobalApp
 import com.example.musicapps.R
-import com.example.musicapps.adapter.TrackAdapter
 import com.example.musicapps.adapter.TrackLocalAdapter
 import com.example.musicapps.database.DaoSession
-import com.example.musicapps.database.TTrackDao
 import com.example.musicapps.model.Tracks
 
 // TODO: Rename parameter arguments, choose names that match
@@ -44,8 +42,6 @@ class FavoriteFragment : Fragment() {
     private lateinit var trackLists: MutableList<Tracks>
     private lateinit var daoSession: DaoSession
 
-    private var page = 1
-    private var isLastPage = 0
     private lateinit var qArtist: String
 
 
