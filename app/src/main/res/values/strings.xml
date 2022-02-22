@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Music Apps</string>
+
+    <string name="label_search">Search music</string>
+    <string name="menu_library">Library</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="label_waiting">Please wait…</string>
+    <string name="label_1">1</string>
+    <string name="label_2">2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_singer">Singer</string>
+    <string name="label_song_title">Song Title</string>
+    <string name="label_add_to_favorite">Add to Favorite</string>
+    <string name="label_remove_from_favorite">Remove</string>
+    <string name="label_error_1">Terjadi kesalahan, pastikan koneksi Anda berjalan dan muat ulang halaman.</string>
+    <string name="label_error_2">Terjadi kesalahan, pastikan koneksi Anda berjalan dan muat ulang halaman. Error code: </string>
+    <string name="label_limit_page">Anda sudah mencapai batas halaman</string>
+    <string name="label_no_results">Tidak ada hasil yang ditemukan</string>
+    <string name="label_try_again">try again</string>
+</resources>

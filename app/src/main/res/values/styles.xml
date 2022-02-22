@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/sf_pro_display_heavy</item>
+    </style>
+
+    <style name="SFTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/sf_pro_display_light</item>
+    </style>
+    <style name="SFButtonStyle" parent="android:Widget.Button">
+        <item name="android:fontFamily">@font/sf_pro_display_light</item>
+    </style>
+    <style name="SFEditTextStyle" parent="android:Widget.EditText">
+        <item name="android:fontFamily">@font/sf_pro_display_light</item>
+    </style>
+    <style name="SFSpinnerItemStyle" parent="android:Widget.TextView.SpinnerItem">
+        <item name="android:fontFamily">@font/sf_pro_display_light</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

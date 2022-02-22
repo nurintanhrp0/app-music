@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/drawable-v24/form_edit_text_style_white.xml" value="0.2703125" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/drawable-v24/ic_search_grey_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/layout/fragment_favorite.xml" value="0.264" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/layout/fragment_favorite2.xml" value="0.2234375" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/layout/fragment_library.xml" value="0.23829344432882413" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/layout/mtoolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/layout/music_list_row.xml" value="0.264" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/layout/toolbar.xml" value="0.21875" />
+        <entry key="..\:/Users/Intan/AndroidStudioProjects/MusicApps/app/src/main/res/menu/menu_bottom_toolbar.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
